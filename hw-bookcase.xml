@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookcase>
+    <name>firstBookcase</name>
+    <bookList>
+        <book>
+            <vendorCode>1A</vendorCode>
+            <name>War and Peace</name>
+            <year>1868</year>
+        </book>
+        <book>
+            <vendorCode>1B</vendorCode>
+            <name>The Odyssey</name>
+            <year>2010</year>
+        </book>
+        <book>
+            <vendorCode>1C</vendorCode>
+            <name>The Old Man and the Sea</name>
+            <year>1952</year>
+        </book>
+        <book>
+            <vendorCode>1D</vendorCode>
+            <name>An American Tragedy</name>
+            <year>1925</year>
+        </book>
+    </bookList>
+</bookcase>
